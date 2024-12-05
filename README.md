@@ -18,10 +18,12 @@
 - Email&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;: heidaralbuali@gmail.com 	
 - LinkedIn&nbsp;&nbsp;&nbsp;&nbsp;: www.linkedin.com/in/heidarsky 									
 - Portfolio&nbsp;&nbsp;&nbsp;&nbsp;: www.artstation.com/heidar3d 										
+- Resume&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://drive.google.com/file/d/12-XRWfEOq4FBiQsESl97kV_kgXZGVQIS/view
 
 &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:heidaralbuali@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=red&labelColor=white&color=red"/></a>
 <a href="https://linkedin.com/in/heidarsky"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=%234B4BFF&labelColor=white&color=%234B4BFF"/></a>
 <a href="https://artstation.com/heidar3d"><img src="https://img.shields.io/badge/ArtStation-%2300008B?style=flat&logo=artstation&logoColor=%2300008B&labelColor=white&color=%2300008B"/></a>
+<a href="https://drive.google.com/file/d/12-XRWfEOq4FBiQsESl97kV_kgXZGVQIS/view"><img src="https://img.shields.io/badge/Resume-l?logo=readthedocs&logoColor=white"/></a>
 
 <h1 align='center'>
 	🔧 Tools & Skills 🔧
