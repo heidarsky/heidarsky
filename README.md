@@ -4,10 +4,10 @@
 
 👋 Hello, I’m a self-taught 3D CG artist / animator, and a Software Engineer.
 - Graduated in **May 2024** with a *Bachelor of Science* in Computer Science from the University of Houston.
-- I also graduated with a minor in Mathematics.
-- I obtained a latin academic honor for a high **GPA of 3.663**
+- Earned a minor in Mathematics.
+- Obtained a latin academic honor for a high **GPA of 3.663**
 
-🎨 Currently I'm a freelance artist working to improve my skills and expand my portfolio.
+🎨 Currently I'm working to improve my skills and expand my portfolio.
 
 ✔ I'm seeking new opportunities to further enhance my skills.
 
